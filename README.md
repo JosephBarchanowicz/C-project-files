@@ -1,5 +1,5 @@
 # C-project-files
-My Project files using C code
+My project files using C code
 
 ## Banker's Algorithm 
 Bankers Algorithm is a dynamic deadlock avoidance algorithm which is used to check for deadlock by trying to satisfy the needs for all the processes.  
